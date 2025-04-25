@@ -25,7 +25,8 @@ DEADLINE: 23H59:59 NGÀY 25/4/2025
 
    - B2: Chọn đường dẫn tải file về vào chọn đúng file sv_tnut.sql:
 
-  ![image](https://github.com/user-attachments/assets/e5c7c7ad-343f-47ce-984e-c7058a09a240)
+ ![image](https://github.com/user-attachments/assets/4802ef63-0b17-4bab-8160-08c1bd02ab02)
+
 
     
    - B3: Tạo database với tên sv_tnut để trùng với câu lệnh use[sv_tnut] của thầy(lệnh sử dụng database):
