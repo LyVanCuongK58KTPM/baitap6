@@ -30,8 +30,9 @@ DEADLINE: 23H59:59 NGÀY 25/4/2025
 
     
    - B3: Tạo database với tên sv_tnut để trùng với câu lệnh use[sv_tnut] của thầy(lệnh sử dụng database):
-  
-    ![image](https://github.com/user-attachments/assets/c79a0825-f3dd-424e-9a30-f7c2500637be)
+
+  ![image](https://github.com/user-attachments/assets/474d814a-0142-4805-9f22-7a682b6ca75c)
+
 
 
    - B3: Bôi đen câu lệnh use[sv_tnut] và câu lệnh tạo bảng SV để tạo ra bảng trước rồi mới nhập dữ liệu được:
