@@ -48,7 +48,7 @@ DEADLINE: 23H59:59 NGÀY 25/4/2025
 ## 2. Truy vấn ra thông tin của em ( Lý Văn Cường) với dữ liệu đầu vào là tên; sđt; ngày, tháng, năm sinh
 
    - New Query để code truy vấn
-   - Dùng câu lệnh SELECT các trường tên, ngày sinh, số điện thoại từ bảng SV where các trường = dữ liệu phù hợp với thông tin của em:
+   - Dùng câu lệnh SELECT các trường tên, ngày sinh, số điện thoại từ bảng SV where tên các trường = dữ liệu phù hợp với thông tin của em:
   
      ![image](https://github.com/user-attachments/assets/ff24dc2a-375b-4de0-b30e-444f9091f1e6)
 
