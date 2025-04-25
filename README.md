@@ -24,12 +24,14 @@ DEADLINE: 23H59:59 NGÀY 25/4/2025
      ![image](https://github.com/user-attachments/assets/b8a1aa33-bb44-4218-b04c-dcd90ec814cc)
 
    - B2: Chọn đường dẫn tải file về vào chọn đúng file sv_tnut.sql:
-  
-     ![image](https://github.com/user-attachments/assets/1f997b65-6da6-48c2-bd7b-dd4de924ad46)
 
+  ![image](https://github.com/user-attachments/assets/e5c7c7ad-343f-47ce-984e-c7058a09a240)
+
+    
    - B3: Tạo database với tên sv_tnut để trùng với câu lệnh use[sv_tnut] của thầy(lệnh sử dụng database):
   
-     ![image](https://github.com/user-attachments/assets/c69a7d35-a2b6-4c23-9300-af1cc7ae102e)
+    ![image](https://github.com/user-attachments/assets/c79a0825-f3dd-424e-9a30-f7c2500637be)
+
 
    - B3: Bôi đen câu lệnh use[sv_tnut] và câu lệnh tạo bảng SV để tạo ra bảng trước rồi mới nhập dữ liệu được:
   
