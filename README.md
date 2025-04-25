@@ -36,8 +36,8 @@ DEADLINE: 23H59:59 NGÀY 25/4/2025
 
 
    - B3: Bôi đen câu lệnh use[sv_tnut] và câu lệnh tạo bảng SV để tạo ra bảng trước rồi mới nhập dữ liệu được:
-  
-    ![image](https://github.com/user-attachments/assets/17d2fa14-6a02-4ac0-a89c-7b167146ade6)
+
+     ![image](https://github.com/user-attachments/assets/68f91b64-7e53-4208-9dc9-21c22852380c)
 
      
   Kết quả chúng ta thấy được database đã có bảng dbo.SV:
